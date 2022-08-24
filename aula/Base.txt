@@ -1,0 +1,10 @@
+Aprender e dominar:
+
+1- O que é lógica de programação
+2-Inputs e Outputs
+3-Condicionais
+4-Variavesi e constantes
+5-Array ou vetores
+6-Looping
+7-Função
+8-Objetos
