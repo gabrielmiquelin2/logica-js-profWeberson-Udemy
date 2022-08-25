@@ -1,0 +1,21 @@
+
+<h1>Looping ou Laços de repetição</h1>
+
+<script>
+  
+  let numero = prompt("Digite um numero que deseja multiplicar");
+  let multiplicador = prompt("Digite até quando quer multiplicar")
+
+  for(let i = 0; i < multiplicador; i++){
+      document.write(numero + " x " +i+ " = " + (numero * i) + "<br>");
+  }
+
+  calcularTabuada(numero, multiplicador)
+  
+  
+  function calcularTabuada(numero, multiplicador){
+    for(let i = 0; i < multiplicador; i++){
+      document.write(numero + " x " +i+ " = " + (numero * i) + "<br>");
+  }
+  }
+</script>
